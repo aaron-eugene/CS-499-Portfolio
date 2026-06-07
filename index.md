@@ -24,12 +24,13 @@ This work improves the original artifact by reducing the mixed structure of stat
 
 [View the Software Design and Engineering Enhancement](https://github.com/aaron-eugene/CS-499/tree/milestone-2-software-design)
 
-Read the Software Design and Engineering Narrative
+[Read the Software Design and Engineering Narrative](https://github.com/aaron-eugene/CS-499/blob/main/Milestone_2_Narrative.md)
 
 ## Planned Enhancements
-Software Design and Engineering — published
-Algorithms and Data Structures — in progress
-Databases — planned
+
+* Software Design and Engineering — published
+* Algorithms and Data Structures — in progress
+* Databases — in progress
 
 ## Enhancement Direction
 
