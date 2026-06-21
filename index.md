@@ -80,8 +80,8 @@ The final enhanced version of Travlr Getaways includes:
 
 [Code Review Video](https://youtu.be/oBbEKwmo_oQ)
 
-[Software Design and Engineering Narrative](https://github.com/aaron-eugene/CS-499/blob/main/Milestone_2_Narrative.md)
+[Software Design and Engineering Narrative](Milestone_2_Narrative.html)
 
-[Algorithms and Data Structures Narrative](https://github.com/aaron-eugene/CS-499/blob/main/Milestone_3_Narrative.md)
+[Algorithms and Data Structures Narrative](Milestone_3_Narrative.html)
 
-[Databases Narrative](https://github.com/aaron-eugene/CS-499/blob/main/Milestone_4_Narrative.md)
+[Databases Narrative](Milestone_4_Narrative.html)
