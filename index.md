@@ -14,7 +14,7 @@ The final project includes a public trip-browsing interface, database-backed sea
 
 The professional self-assessment introduces my experience in the Computer Science program, my capstone work, and the skills demonstrated throughout this ePortfolio. It reflects on my growth in software engineering, algorithms and data structures, databases, security, communication, and professional development.
 
-[Read the Professional Self-Assessment]([Professional_](https://github.com/aaron-eugene/CS-499-Portfolio/Self_Assessment.md)
+[Read the Professional Self-Assessment](Self_Assessment.md)
 
 ## Code Review
 
