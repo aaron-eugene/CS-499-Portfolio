@@ -38,7 +38,7 @@ This work improves the original artifact by reducing the mixed structure of stat
 
 [View the Software Design and Engineering Enhancement](https://github.com/aaron-eugene/CS-499/tree/milestone-2-software-design)
 
-[Read the Software Design and Engineering Narrative](https://github.com/aaron-eugene/CS-499/blob/main/Milestone_2_Narrative.html)
+[Read the Software Design and Engineering Narrative](Milestone_2_Narrative.html)
 
 ## Enhancement Two: Algorithms and Data Structures
 
@@ -48,7 +48,7 @@ The enhanced backend can process user-selected criteria such as price, duration,
 
 [View the Algorithms and Data Structures Enhancement](https://github.com/aaron-eugene/CS-499/tree/milestone-3-algorithms)
 
-[Read the Algorithms and Data Structures Narrative](https://github.com/aaron-eugene/CS-499/blob/main/Milestone_3_Narrative.html)
+[Read the Algorithms and Data Structures Narrative](Milestone_3_Narrative.html)
 
 ## Enhancement Three: Databases
 
@@ -58,7 +58,7 @@ This work improves the original artifact by replacing less structured data handl
 
 [View the Databases Enhancement](https://github.com/aaron-eugene/CS-499/tree/milestone-4-databases)
 
-[Read the Databases Narrative](https://github.com/aaron-eugene/CS-499/blob/main/Milestone_4_Narrative.html)
+[Read the Databases Narrative](Milestone_4_Narrative.html)
 
 ## Final Application Highlights
 
