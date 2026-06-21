@@ -1,5 +1,9 @@
 # Aaron Befus — CS 499 ePortfolio
 
+<p align="center">
+  <img src="photo_01.png" alt="Aaron Befus" width="180">
+</p>
+
 ## Computer Science Capstone
 
 ### Southern New Hampshire University
