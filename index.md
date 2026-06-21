@@ -78,6 +78,26 @@ The final enhanced version of Travlr Getaways includes:
 * Backend tests covering service behavior, defensive input handling, admin CRUD, and admin endpoint security
 * A frontend production build with no reported npm vulnerabilities at final review
 
+## Final Application Screenshots
+
+### Public Trip Browsing
+
+![Travlr public trip browsing page](assets/images/SS_01_front_page.png)
+
+The public trip-browsing page displays trip data loaded from the enhanced Spring Boot API and PostgreSQL database.
+
+### Trip Filtering
+
+![Travlr trip filtering example](assets/images/SS_04_front_page_filter.png)
+
+The filtering view demonstrates the enhanced trip retrieval behavior, including user-selected criteria backed by service and repository logic.
+
+### Admin Trip Management
+
+![Travlr admin trip management page](assets/images/SS_05_admin_page.png)
+
+The admin management page demonstrates protected create, update, and delete functionality for trip records.
+
 ## Project Materials
 
 [Final Enhanced Project Repository](https://github.com/aaron-eugene/CS-499)
